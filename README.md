@@ -26,15 +26,28 @@ Una vez configurado el archivo anterior tan sólo será necesario hacer uso del 
 
 Las siguientes imágenes y trozos de código muestran como hacer uso del plugin en tu **GitBook**:
 
-### Notificación de tipo Tarea
+### Cool Image Tipo1
 
 ```
-{% coolimages url_image="Título de la Tarea" %} 
-    texto de la imagen
-{% endcoolimages %}
+{% coolimages_type1 url_image="../img/ruta-imagen-gitbook.png" %} 
+    Texto de la imagen<br>otro texto
+{% endcoolimages_type1 %}
 ```
 
 Su aspecto resultante sería:
 
 ![Ejemplo de como quedaría una imagen Cool](https://github.com/amartinr1977/gitbook-plugin-coolimages/blob/master/assets/images/example-coolimage.png?raw=true)
+
+### Cool Image Tipo1
+
+```
+{% coolimages_type2 url_image="../img/ruta-imagen-gitbook.png" %} 
+    Texto de la imagen<br>otro texto
+{% endcoolimages_type2 %}
+```
+
+Su aspecto resultante sería:
+
+![Ejemplo de como quedaría una imagen Cool](https://github.com/amartinr1977/gitbook-plugin-coolimages/blob/master/assets/images/example-coolimage_type2.png?raw=true)
+
 
