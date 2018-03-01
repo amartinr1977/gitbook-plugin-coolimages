@@ -1,0 +1,21 @@
+{
+  "name": "gitbook-plugin-coolimages",
+  "description": "Gitbook plugin to add images with cool format",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "https://github.com/amartinr1977/gitbook-plugin-coolimages",
+  "version": "0.0.1",
+  "engines": {
+    "gitbook": ">2.5.0"
+  },
+  "author": {
+    "name": "Arturo Martín Romero",
+    "email": "amartinromero@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/amartinr1977/gitbook-plugin-coolimages/issues"
+  },
+  "gitbook": {
+    "properties": {}
+  }
+}
