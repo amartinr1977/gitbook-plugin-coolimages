@@ -38,7 +38,7 @@ Su aspecto resultante sería:
 
 ![Ejemplo de como quedaría una imagen Cool](https://github.com/amartinr1977/gitbook-plugin-coolimages/blob/master/assets/images/example-coolimage.png?raw=true)
 
-### Cool Image Tipo1
+### Cool Image Tipo2
 
 ```
 {% coolimages_type2 url_image="../img/ruta-imagen-gitbook.png" %} 

@@ -3,6 +3,7 @@
     margin-left: auto;
     margin-right: auto;
     width: 90%;
+    text-align: center;
 }
 
 .imagetext_type1 {
@@ -20,7 +21,7 @@
 
 .imagetext_type2 {
     position: relative;
-    font-size: 14px;
+    font-size: 12px;
     background-color: orange;
     padding: 5px 10px 5px 10px;
     border-radius: 3px;
@@ -33,7 +34,7 @@
 }
 
 .coolimage {
-    width: 100%;
+    /* width: 100%; */
     height: auto;
     opacity: 1;
     border: 1px solid #ddd;
