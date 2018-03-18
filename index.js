@@ -8,6 +8,14 @@ module.exports = {
       'coolimages.css'
     ]
   },
+  ebook: {
+
+    assets: './assets',
+
+    css: [
+      'coolimages.css'
+    ]
+  },
 
   blocks: {
     coolimages_type1: {
