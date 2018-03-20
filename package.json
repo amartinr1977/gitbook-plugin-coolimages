@@ -4,10 +4,17 @@
   "main": "index.js",
   "license": "MIT",
   "homepage": "https://github.com/amartinr1977/gitbook-plugin-coolimages",
-  "version": "1.0.8",
+  "version": "1.1.1",
   "engines": {
     "gitbook": ">2.5.0"
   },
+  "keywords": [
+    "gitbook",
+    "plugin",
+    "vitalinux",
+    "amartinromero",
+    "coolimages"
+  ],
   "author": {
     "name": "Arturo Martín Romero",
     "email": "amartinromero@gmail.com"

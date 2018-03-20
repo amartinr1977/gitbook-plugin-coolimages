@@ -29,7 +29,7 @@ Las siguientes imágenes y trozos de código muestran como hacer uso del plugin 
 ### Cool Image Tipo1
 
 ```
-{% coolimages_type1 url_image="../img/ruta-imagen-gitbook.png" %} 
+{% coolimages_type1 url_image="../img/ruta-imagen-gitbook.png", prefixtext="Img:" %} 
     Texto de la imagen<br>otro texto
 {% endcoolimages_type1 %}
 ```
@@ -41,7 +41,7 @@ Su aspecto resultante sería:
 ### Cool Image Tipo2
 
 ```
-{% coolimages_type2 url_image="../img/ruta-imagen-gitbook.png" %} 
+{% coolimages_type2 url_image="../img/ruta-imagen-gitbook.png", prefixtext="Img:" %} 
     Texto de la imagen<br>otro texto
 {% endcoolimages_type2 %}
 ```
